@@ -80,7 +80,7 @@
 {
     switch (resolution) {
         case RNCameraVideo2160p:
-            return AVCaptureSessionPreset3840x2160;
+            return AVCaptureSessionPreset1920x1080;
         case RNCameraVideo1080p:
             return AVCaptureSessionPreset1920x1080;
         case RNCameraVideo720p:
